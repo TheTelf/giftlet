@@ -1,0 +1,33 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>
+        {% block title %}
+            giftlet :: generosity, distributed.
+        {% endblock %}
+    </title>
+    <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+    {% block stylesheets %}
+        <link rel="stylesheet" href="{{ asset('bundles/giftlet/css/layout.css') }}" type="text/css" media="all" />
+    {% endblock %}
+    {% block javascripts %}
+    {% endblock %}
+    <link rel="shortcut icon" href="{{ asset('bundles/giftlet/images/favicon.ico') }}" />
+</head>
+<body>
+
+<div id="header">
+    <b>gift</b>let
+</div>
+
+<div id="content">
+    {% block content %}
+    {% endblock %}
+</div>
+
+<div id="footer">
+    This is the footer
+</div>
+
+</body>
+</html>

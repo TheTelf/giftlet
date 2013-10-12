@@ -1,0 +1,4 @@
+giftlet:
+    resource: "@giftletBundle/Resources/config/routing.yml"
+    prefix:   /
+

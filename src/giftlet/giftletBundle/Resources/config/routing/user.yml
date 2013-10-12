@@ -1,0 +1,30 @@
+giftlet_user:
+    pattern:  /
+    defaults: { _controller: "giftletBundle:User:index" }
+
+giftlet_user_show:
+    pattern:  /{id}/show
+    defaults: { _controller: "giftletBundle:User:show" }
+
+giftlet_user_new:
+    pattern:  /new
+    defaults: { _controller: "giftletBundle:User:new" }
+
+giftlet_user_create:
+    pattern:  /create
+    defaults: { _controller: "giftletBundle:User:create" }
+    requirements: { _method: post }
+
+giftlet_user_edit:
+    pattern:  /{id}/edit
+    defaults: { _controller: "giftletBundle:User:edit" }
+
+giftlet_user_update:
+    pattern:  /{id}/update
+    defaults: { _controller: "giftletBundle:User:update" }
+    requirements: { _method: post|put }
+
+giftlet_user_delete:
+    pattern:  /{id}/delete
+    defaults: { _controller: "giftletBundle:User:delete" }
+    requirements: { _method: post|delete }

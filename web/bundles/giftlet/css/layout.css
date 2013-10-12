@@ -1,0 +1,48 @@
+html,body
+{
+    height:100%;
+}
+
+body
+{
+    background-color: #C5E6B1;
+}
+
+div#header
+{
+    height:50px;
+    background-color: #A1E874;
+    text-align: right;
+    text-decoration-color: #ffffff;
+    position: fixed;
+    top: 0;
+    left: 0;
+    right: 0;
+    padding: 10px;
+    font-family: Helvetica, sans-serif;
+    font-size: 3em;
+}
+
+div#footer
+{
+    height:30px;
+    background-color: #A1E874;
+    text-align: right;
+    position: fixed;
+    bottom: 0;
+    left: 0;
+    right: 0;
+}
+
+div#content
+{
+    width:800px;
+    margin-right: auto;
+    margin-left: auto;
+    background-color: white;
+    min-height: 100%;
+    padding-left: 10px;
+    padding-right: 10px;
+    font-family: Helvetica, sans-serif;
+    padding-top: 80px;
+}

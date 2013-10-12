@@ -1,0 +1,9 @@
+giftlet_homepage:
+    pattern:  /
+    defaults: { _controller: giftletBundle:Gift:index }
+giftletBundle_user:
+  resource: "@giftletBundle/Resources/config/routing/user.yml"
+  prefix: /user
+giftletBundle_gift:
+  resource: "@giftletBundle/Resources/config/routing/gift.yml"
+  prefix: /gift

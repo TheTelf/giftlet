@@ -1,0 +1,2 @@
+justhost = giftlet.co.uk/Yt
+mysql = giftletc_admin/32

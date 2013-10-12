@@ -1,0 +1,3 @@
+After changing x.orm.yml:
+php app/console doctrine:generate:entities giftletBundle
+php app/console doctrine:schema:update --force

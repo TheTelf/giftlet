@@ -1,0 +1,18 @@
+{% extends 'giftletBundle::layout.html.twig' %}
+
+{% block content %}
+
+    {% block body -%}
+        <h1>Gift creation</h1>
+
+        {{ form(form) }}
+
+            <ul class="record_actions">
+        <li>
+            <a href="{{ path('gift') }}">
+                Back to the list
+            </a>
+        </li>
+    </ul>
+    {% endblock %}
+{% endblock %}

@@ -1,0 +1,5 @@
+[11-Oct-2013 19:47:06 Europe/London] PHP Fatal error:  Class 'Symfony\Bundle\DoctrineFixturesBundle\DoctrineFixturesBundle' not found in C:\webdev\giftlet\app\AppKernel.php on line 20
+[12-Oct-2013 10:39:35 Europe/London] PHP Fatal error:  Class 'Doctrine\Bundle\FixturesBundle\DoctrineFixturesBundle' not found in C:\webdev\giftlet\app\AppKernel.php on line 20
+[12-Oct-2013 10:42:03 Europe/London] PHP Fatal error:  Class 'Twig_Extension' not found in C:\webdev\giftlet\vendor\symfony\symfony\src\Symfony\Bridge\Twig\Extension\FormExtension.php on line 25
+[12-Oct-2013 11:09:35 Europe/London] PHP Fatal error:  Class 'Doctrine\Bundle\Fixtures' not found in C:\webdev\giftlet\app\AppKernel.php on line 21
+[12-Oct-2013 11:11:21 Europe/London] PHP Fatal error:  Cannot redeclare class giftlet\giftletBundle\DataFixtures\ORM\LoadCategoryData in C:\webdev\giftlet\src\giftlet\giftletBundle\DataFixtures\ORM\LoadGiftData.php on line 10

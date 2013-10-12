@@ -1,0 +1,27 @@
+giftlet\giftletBundle\Entity\Contribution:
+  type: entity
+  table: contributions
+  id:
+    id:
+      type: integer
+      generator: { strategy: AUTO }
+  fields:
+    amount:
+      type: float
+    createddate:
+      type: datetime
+  manyToOne:
+    gift:
+      targetEntity: Gift
+      inversedBy: contributions
+      joinColumn:
+        name: gift
+        referencedColumnName: id
+    user:
+      targetEntity: User
+      inversedBy: contributions
+      joinColumn:
+        name: user
+        referencedColumnName: id
+  lifecycleCallbacks:
+    prePersist: [ setCreatedDateValue ]

@@ -1,0 +1,1 @@
+[11-Oct-2013 18:27:22 Europe/London] PHP Fatal error:  Maximum execution time of 30 seconds exceeded in C:\webdev\giftlet\vendor\symfony\symfony\src\Symfony\Bundle\FrameworkBundle\Templating\Loader\TemplateLocator.php on line 22

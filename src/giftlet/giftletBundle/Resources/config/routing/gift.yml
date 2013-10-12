@@ -1,0 +1,30 @@
+gift:
+    pattern:  /
+    defaults: { _controller: "giftletBundle:Gift:index" }
+
+gift_show:
+    pattern:  /{id}/show
+    defaults: { _controller: "giftletBundle:Gift:show" }
+
+gift_new:
+    pattern:  /new
+    defaults: { _controller: "giftletBundle:Gift:new" }
+
+gift_create:
+    pattern:  /create
+    defaults: { _controller: "giftletBundle:Gift:create" }
+    requirements: { _method: post }
+
+gift_edit:
+    pattern:  /{id}/edit
+    defaults: { _controller: "giftletBundle:Gift:edit" }
+
+gift_update:
+    pattern:  /{id}/update
+    defaults: { _controller: "giftletBundle:Gift:update" }
+    requirements: { _method: post|put }
+
+gift_delete:
+    pattern:  /{id}/delete
+    defaults: { _controller: "giftletBundle:Gift:delete" }
+    requirements: { _method: post|delete }

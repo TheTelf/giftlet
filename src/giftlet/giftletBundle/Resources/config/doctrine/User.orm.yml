@@ -1,0 +1,23 @@
+giftlet\giftletBundle\Entity\User:
+  type: entity
+  table: users
+  id:
+    id:
+      type: integer
+      generator: { strategy: AUTO }
+  fields:
+    handle:
+      type: string
+      length: 255
+      unique: true
+    createddate:
+      type: datetime
+  oneToMany:
+    gifts:
+      targetEntity: Gift
+      mappedBy: createdby
+    contributions:
+      targetEntity: Contribution
+      mappedBy: user
+  lifecycleCallbacks:
+    prePersist: [ setCreatedDateValue ]
