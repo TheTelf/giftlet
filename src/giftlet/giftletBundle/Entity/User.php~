@@ -2,22 +2,18 @@
 
 namespace giftlet\giftletBundle\Entity;
 
+use Symfony\Component\Security\Core\User\UserInterface;
 use Doctrine\ORM\Mapping as ORM;
 
 /**
  * User
  */
-class User
+class User implements UserInterface, \Serializable
 {
     /**
      * @var integer
      */
     private $id;
-
-    /**
-     * @var string
-     */
-    private $handle;
 
     /**
      * @var \DateTime
@@ -33,6 +29,21 @@ class User
      * @var \Doctrine\Common\Collections\Collection
      */
     private $contributions;
+
+    /**
+     * @var string
+     */
+    private $username;
+
+    /**
+     * @var string
+     */
+    private $password;
+
+    /**
+     * @var string
+     */
+    private $salt;
 
     /**
      * Constructor
@@ -51,29 +62,6 @@ class User
     public function getId()
     {
         return $this->id;
-    }
-
-    /**
-     * Set handle
-     *
-     * @param string $handle
-     * @return User
-     */
-    public function setHandle($handle)
-    {
-        $this->handle = $handle;
-    
-        return $this;
-    }
-
-    /**
-     * Get handle
-     *
-     * @return string 
-     */
-    public function getHandle()
-    {
-        return $this->handle;
     }
 
     /**
@@ -174,6 +162,140 @@ class User
 
     public function __toString()
     {
-        return $this->getHandle();
+        return $this->getUsername();
+    }
+
+    /**
+     * Set username
+     *
+     * @param string $username
+     * @return User
+     */
+    public function setUsername($username)
+    {
+        $this->username = $username;
+    
+        return $this;
+    }
+
+    /**
+     * Get username
+     *
+     * @return string 
+     */
+    public function getUsername()
+    {
+        return $this->username;
+    }
+
+    /**
+     * Set password
+     *
+     * @param string $password
+     * @return User
+     */
+    public function setPassword($password)
+    {
+        $this->password = $password;
+    
+        return $this;
+    }
+
+    /**
+     * Get password
+     *
+     * @return string 
+     */
+    public function getPassword()
+    {
+        return $this->password;
+    }
+
+    /**
+     * Set salt
+     *
+     * @param string $salt
+     * @return User
+     */
+    public function setSalt($salt)
+    {
+        $this->salt = $salt;
+    
+        return $this;
+    }
+
+    /**
+     * Get salt
+     *
+     * @return string 
+     */
+    public function getSalt()
+    {
+        return $this->salt;
+    }
+
+    /**
+     * Required for UserInterface. Very few roles required: 99% of the time the user will just be a user.
+     * @return array|\Symfony\Component\Security\Core\Role\Role[]
+     */
+    public function getRoles()
+    {
+        return array('ROLE_USER');
+    }
+
+    /**
+     * Required for UserInterface.
+     */
+    public function eraseCredentials()
+    {
+        return;
+    }
+
+    /**
+     * @see \Serializable::serialize()
+     */
+    public function serialize()
+    {
+        return serialize(array(
+            $this->id,
+        ));
+    }
+
+    /**
+     * @see \Serializable::unserialize()
+     */
+    public function unserialize($serialized)
+    {
+        list (
+            $this->id,
+            ) = unserialize($serialized);
+    }
+    /**
+     * @var string
+     */
+    private $email;
+
+
+    /**
+     * Set email
+     *
+     * @param string $email
+     * @return User
+     */
+    public function setEmail($email)
+    {
+        $this->email = $email;
+    
+        return $this;
+    }
+
+    /**
+     * Get email
+     *
+     * @return string 
+     */
+    public function getEmail()
+    {
+        return $this->email;
     }
 }

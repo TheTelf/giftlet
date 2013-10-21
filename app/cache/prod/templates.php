@@ -83,6 +83,7 @@
   'giftletBundle:Gift:new.html.twig' => 'C:\\webdev\\giftlet\\src\\giftlet\\giftletBundle/Resources/views/Gift/new.html.twig',
   'giftletBundle:Gift:show.html.twig' => 'C:\\webdev\\giftlet\\src\\giftlet\\giftletBundle/Resources/views/Gift/show.html.twig',
   'giftletBundle::layout.html.twig' => 'C:\\webdev\\giftlet\\src\\giftlet\\giftletBundle/Resources/views/layout.html.twig',
+  'giftletBundle:Security:login.html.twig' => 'C:\\webdev\\giftlet\\src\\giftlet\\giftletBundle/Resources/views/Security/login.html.twig',
   'giftletBundle:User:edit.html.twig' => 'C:\\webdev\\giftlet\\src\\giftlet\\giftletBundle/Resources/views/User/edit.html.twig',
   'giftletBundle:User:index.html.twig' => 'C:\\webdev\\giftlet\\src\\giftlet\\giftletBundle/Resources/views/User/index.html.twig',
   'giftletBundle:User:new.html.twig' => 'C:\\webdev\\giftlet\\src\\giftlet\\giftletBundle/Resources/views/User/new.html.twig',

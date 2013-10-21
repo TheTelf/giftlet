@@ -1,15 +1,26 @@
 giftlet\giftletBundle\Entity\User:
   type: entity
+  repositoryClass: giftlet\giftletBundle\Entity\UserRepository
   table: users
   id:
     id:
       type: integer
       generator: { strategy: AUTO }
   fields:
-    handle:
+    username:
       type: string
       length: 255
       unique: true
+    email:
+      type: string
+      length: 255
+      unique: true
+    password:
+      type: string
+      length: 40
+    salt:
+      type: string
+      length: 40
     createddate:
       type: datetime
   oneToMany:

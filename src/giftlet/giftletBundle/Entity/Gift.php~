@@ -181,13 +181,7 @@ class Gift
     {
         return $this->users;
     }
-    /**
-     * @ORM\PrePersist
-     */
-    public function setCreatedDateValue()
-    {
-        $this->createddate = new \DateTime();
-    }
+
     /**
      * @var float
      */
@@ -223,30 +217,87 @@ class Gift
 
 
     /**
-     * Set createdby_test
+     * @var string
+     */
+    private $description;
+
+    /**
+     * @var string
+     */
+    private $link;
+
+
+    /**
+     * Set description
      *
-     * @param integer $createdbyTest
+     * @param string $description
      * @return Gift
      */
-    public function setCreatedbyTest($createdbyTest)
+    public function setDescription($description)
     {
-        $this->createdby_test = $createdbyTest;
+        $this->description = $description;
     
         return $this;
     }
 
     /**
-     * Get createdby_test
+     * Get description
      *
-     * @return integer 
+     * @return string 
      */
-    public function getCreatedbyTest()
+    public function getDescription()
     {
-        return $this->createdby_test;
+        return $this->description;
+    }
+
+    /**
+     * Set link
+     *
+     * @param string $link
+     * @return Gift
+     */
+    public function setLink($link)
+    {
+        $this->link = $link;
+    
+        return $this;
+    }
+
+    /**
+     * Get link
+     *
+     * @return string 
+     */
+    public function getLink()
+    {
+        return $this->link;
+    }
+
+
+
+    /**
+     * @ORM\PrePersist
+     */
+    public function setCreatedDateValue()
+    {
+        $this->createddate = new \DateTime();
     }
 
     public function __toString()
     {
         return $this->getTitle();
+    }
+
+
+    public function getContributionTotal()
+    {
+        $total = 0;
+
+        foreach ($this->getContributions() as $contribution)
+        {
+            $total += $contribution->getAmount();
+        }
+
+        return $total;
     }
 }

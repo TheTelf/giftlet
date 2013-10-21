@@ -1,3 +1,12 @@
 After changing x.orm.yml:
 php app/console doctrine:generate:entities giftletBundle
 php app/console doctrine:schema:update --force
+
+After changing x.html.twig:
+php app/console cache:clear --env=dev
+php app/console assets:install web
+
+After changing some data fixtures:
+php app/console doctrine:fixtures:load
+
+password{salt}

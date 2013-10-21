@@ -117,12 +117,6 @@ class Gift extends \giftlet\giftletBundle\Entity\Gift implements \Doctrine\ORM\P
         return parent::getUsers();
     }
 
-    public function setCreatedDateValue()
-    {
-        $this->__load();
-        return parent::setCreatedDateValue();
-    }
-
     public function setCost($cost)
     {
         $this->__load();
@@ -135,16 +129,34 @@ class Gift extends \giftlet\giftletBundle\Entity\Gift implements \Doctrine\ORM\P
         return parent::getCost();
     }
 
-    public function setCreatedbyTest($createdbyTest)
+    public function setDescription($description)
     {
         $this->__load();
-        return parent::setCreatedbyTest($createdbyTest);
+        return parent::setDescription($description);
     }
 
-    public function getCreatedbyTest()
+    public function getDescription()
     {
         $this->__load();
-        return parent::getCreatedbyTest();
+        return parent::getDescription();
+    }
+
+    public function setLink($link)
+    {
+        $this->__load();
+        return parent::setLink($link);
+    }
+
+    public function getLink()
+    {
+        $this->__load();
+        return parent::getLink();
+    }
+
+    public function setCreatedDateValue()
+    {
+        $this->__load();
+        return parent::setCreatedDateValue();
     }
 
     public function __toString()
@@ -153,10 +165,16 @@ class Gift extends \giftlet\giftletBundle\Entity\Gift implements \Doctrine\ORM\P
         return parent::__toString();
     }
 
+    public function getContributionTotal()
+    {
+        $this->__load();
+        return parent::getContributionTotal();
+    }
+
 
     public function __sleep()
     {
-        return array('__isInitialized__', 'id', 'title', 'cost', 'createddate', 'contributions', 'createdby');
+        return array('__isInitialized__', 'id', 'title', 'description', 'link', 'cost', 'createddate', 'contributions', 'createdby');
     }
 
     public function __clone()

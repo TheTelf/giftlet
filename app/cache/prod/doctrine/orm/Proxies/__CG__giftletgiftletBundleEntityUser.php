@@ -51,18 +51,6 @@ class User extends \giftlet\giftletBundle\Entity\User implements \Doctrine\ORM\P
         return parent::getId();
     }
 
-    public function setHandle($handle)
-    {
-        $this->__load();
-        return parent::setHandle($handle);
-    }
-
-    public function getHandle()
-    {
-        $this->__load();
-        return parent::getHandle();
-    }
-
     public function setCreateddate($createddate)
     {
         $this->__load();
@@ -123,10 +111,82 @@ class User extends \giftlet\giftletBundle\Entity\User implements \Doctrine\ORM\P
         return parent::__toString();
     }
 
+    public function setUsername($username)
+    {
+        $this->__load();
+        return parent::setUsername($username);
+    }
+
+    public function getUsername()
+    {
+        $this->__load();
+        return parent::getUsername();
+    }
+
+    public function setPassword($password)
+    {
+        $this->__load();
+        return parent::setPassword($password);
+    }
+
+    public function getPassword()
+    {
+        $this->__load();
+        return parent::getPassword();
+    }
+
+    public function setSalt($salt)
+    {
+        $this->__load();
+        return parent::setSalt($salt);
+    }
+
+    public function getSalt()
+    {
+        $this->__load();
+        return parent::getSalt();
+    }
+
+    public function getRoles()
+    {
+        $this->__load();
+        return parent::getRoles();
+    }
+
+    public function eraseCredentials()
+    {
+        $this->__load();
+        return parent::eraseCredentials();
+    }
+
+    public function serialize()
+    {
+        $this->__load();
+        return parent::serialize();
+    }
+
+    public function unserialize($serialized)
+    {
+        $this->__load();
+        return parent::unserialize($serialized);
+    }
+
+    public function setEmail($email)
+    {
+        $this->__load();
+        return parent::setEmail($email);
+    }
+
+    public function getEmail()
+    {
+        $this->__load();
+        return parent::getEmail();
+    }
+
 
     public function __sleep()
     {
-        return array('__isInitialized__', 'id', 'handle', 'createddate', 'gifts', 'contributions');
+        return array('__isInitialized__', 'id', 'username', 'email', 'password', 'salt', 'createddate', 'gifts', 'contributions');
     }
 
     public function __clone()

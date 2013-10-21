@@ -11,9 +11,11 @@ giftlet\giftletBundle\Entity\Gift:
       length: 255
     description:
       type: text
+      nullable: true
     link:
       type: string
       length: 500
+      nullable: true
     cost:
       type: float
     createddate:

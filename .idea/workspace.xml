@@ -1,24 +1,137 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="823a19b9-028d-4aec-975d-cf65e379d518" name="Default" comment="" />
+    <list default="true" id="823a19b9-028d-4aec-975d-cf65e379d518" name="Default" comment="">
+      <change type="DELETED" beforePath="C:\webdev\giftlet\app\cache\dev\profiler\6d\05\7c056d" afterPath="" />
+      <change type="DELETED" beforePath="C:\webdev\giftlet\app\cache\dev\profiler\ed\f7\b0f7ed" afterPath="" />
+      <change type="DELETED" beforePath="C:\webdev\giftlet\app\cache\dev\sessions\sess_m2v5sderhv12jp6ftbfm473iu7" afterPath="" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/cache/dev/twig/05/b9/02552b71516ffebbf27b05927781efbde51a781509ae5b578edf1650c0d2.php" afterPath="$PROJECT_DIR$/app/cache/dev/twig/05/b9/02552b71516ffebbf27b05927781efbde51a781509ae5b578edf1650c0d2.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/cache/dev/twig/f2/0b/0ad6687ced0acfeddce4c6d784d64282c151ab2063876c6c19ac2b48432c.php" afterPath="$PROJECT_DIR$/app/cache/dev/twig/f2/0b/0ad6687ced0acfeddce4c6d784d64282c151ab2063876c6c19ac2b48432c.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/cache/dev/twig/80/0b/0be4a4f877055c954785d4efcc9911242661c004ec92a4cbb0774e143e7e.php" afterPath="$PROJECT_DIR$/app/cache/dev/twig/80/0b/0be4a4f877055c954785d4efcc9911242661c004ec92a4cbb0774e143e7e.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/cache/dev/twig/f9/01/0ec3720216fec7f50eb9b36631ed5aee22989ca9396928f660f9aa4a8259.php" afterPath="$PROJECT_DIR$/app/cache/dev/twig/f9/01/0ec3720216fec7f50eb9b36631ed5aee22989ca9396928f660f9aa4a8259.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/cache/dev/twig/45/73/1752f438bc0a2531f9f0ca26390666193b2108f1169cd9ec50a9380b13c9.php" afterPath="$PROJECT_DIR$/app/cache/dev/twig/45/73/1752f438bc0a2531f9f0ca26390666193b2108f1169cd9ec50a9380b13c9.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/cache/dev/twig/74/7b/1ad8338548783916bf6baa7a0d27914be5614215cf8ff7e7985fccf7aa07.php" afterPath="$PROJECT_DIR$/app/cache/dev/twig/74/7b/1ad8338548783916bf6baa7a0d27914be5614215cf8ff7e7985fccf7aa07.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/cache/dev/twig/3a/cd/1c80f44682e3ca14b9065db05b6a656b1bbbf13de13ab0ce7ac1738aaf2d.php" afterPath="$PROJECT_DIR$/app/cache/dev/twig/3a/cd/1c80f44682e3ca14b9065db05b6a656b1bbbf13de13ab0ce7ac1738aaf2d.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/cache/dev/twig/89/22/2035439ed8383f996ad58e40086e466b732600620c5a1d059311bddb2323.php" afterPath="$PROJECT_DIR$/app/cache/dev/twig/89/22/2035439ed8383f996ad58e40086e466b732600620c5a1d059311bddb2323.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/cache/dev/twig/31/9f/24140ea7801af7a40a30089bbc47a06ddb6af5b44f4442f9cd2eb193b749.php" afterPath="$PROJECT_DIR$/app/cache/dev/twig/31/9f/24140ea7801af7a40a30089bbc47a06ddb6af5b44f4442f9cd2eb193b749.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/cache/dev/twig/7d/3c/24455ffb44a2caae23634cd798fc95151fa7ebcc01840c342936848b4a48.php" afterPath="$PROJECT_DIR$/app/cache/dev/twig/7d/3c/24455ffb44a2caae23634cd798fc95151fa7ebcc01840c342936848b4a48.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/cache/dev/twig/66/83/26f10a18741f639148c993b33448cc10796df497958a6bf64589138069ff.php" afterPath="$PROJECT_DIR$/app/cache/dev/twig/66/83/26f10a18741f639148c993b33448cc10796df497958a6bf64589138069ff.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/cache/dev/twig/75/21/2c257f547627d6cc2317184b2ff017a2f7d73ac28b1fc5140942fd577a0d.php" afterPath="$PROJECT_DIR$/app/cache/dev/twig/75/21/2c257f547627d6cc2317184b2ff017a2f7d73ac28b1fc5140942fd577a0d.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/cache/dev/twig/75/2e/2c34792e57830b99e3b740bd6f5e9384515ce97e9edafa27b66e34259cec.php" afterPath="$PROJECT_DIR$/app/cache/dev/twig/75/2e/2c34792e57830b99e3b740bd6f5e9384515ce97e9edafa27b66e34259cec.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/cache/dev/twig/8f/86/2f39951d42bf629d0f674c222549ca20e0516adf87452c426be86ba54007.php" afterPath="$PROJECT_DIR$/app/cache/dev/twig/8f/86/2f39951d42bf629d0f674c222549ca20e0516adf87452c426be86ba54007.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/cache/dev/twig/6c/32/3ebefbe6658c1fd742d9aea50c37d5cfc49df7984856f40a9ee33ceb316b.php" afterPath="$PROJECT_DIR$/app/cache/dev/twig/6c/32/3ebefbe6658c1fd742d9aea50c37d5cfc49df7984856f40a9ee33ceb316b.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/cache/dev/twig/3b/55/518d87dcba0a1830e2e373ca81a46b121e7d30e476937b678fa240106ff6.php" afterPath="$PROJECT_DIR$/app/cache/dev/twig/3b/55/518d87dcba0a1830e2e373ca81a46b121e7d30e476937b678fa240106ff6.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/cache/dev/twig/69/fd/522159351c7ea55f02946e93b03d3311e0b0ce6113729b1760b7d388b28e.php" afterPath="$PROJECT_DIR$/app/cache/dev/twig/69/fd/522159351c7ea55f02946e93b03d3311e0b0ce6113729b1760b7d388b28e.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/cache/dev/twig/80/b0/5ef4a9b8581ceb62ef7bc553f0e36b522752a25b569d0809341980b227cd.php" afterPath="$PROJECT_DIR$/app/cache/dev/twig/80/b0/5ef4a9b8581ceb62ef7bc553f0e36b522752a25b569d0809341980b227cd.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/cache/dev/twig/28/3c/60dc30ccc826adbe6e2057321f741ba4d785dec0e5744bbc048a13c565e8.php" afterPath="$PROJECT_DIR$/app/cache/dev/twig/28/3c/60dc30ccc826adbe6e2057321f741ba4d785dec0e5744bbc048a13c565e8.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/cache/dev/twig/82/30/64f8fb28791fa133d8c115eadce6babf8748ec059d47404f9e21034a977a.php" afterPath="$PROJECT_DIR$/app/cache/dev/twig/82/30/64f8fb28791fa133d8c115eadce6babf8748ec059d47404f9e21034a977a.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/cache/dev/twig/2d/be/744d1a46462791d30503231f6a76691b4c16a6b877c01c46ec7925c09590.php" afterPath="$PROJECT_DIR$/app/cache/dev/twig/2d/be/744d1a46462791d30503231f6a76691b4c16a6b877c01c46ec7925c09590.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/cache/dev/twig/30/af/752791b1e608cec72e6ed6c9911329692833a69b32b6b241b23bc0992d3a.php" afterPath="$PROJECT_DIR$/app/cache/dev/twig/30/af/752791b1e608cec72e6ed6c9911329692833a69b32b6b241b23bc0992d3a.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/cache/dev/twig/d4/3c/76a29e5e7adbff9795a5d9d36150d5bcfd37a926ff7cd3825ee001cad6ff.php" afterPath="$PROJECT_DIR$/app/cache/dev/twig/d4/3c/76a29e5e7adbff9795a5d9d36150d5bcfd37a926ff7cd3825ee001cad6ff.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/cache/dev/twig/7f/cd/79bbbdb0387d6c2c96a3cf6263b21f1f49d71228c151da9bea5710ef3adc.php" afterPath="$PROJECT_DIR$/app/cache/dev/twig/7f/cd/79bbbdb0387d6c2c96a3cf6263b21f1f49d71228c151da9bea5710ef3adc.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/cache/dev/twig/21/8d/7b5a7dfa61f5ede46390406e7d1c540be8ab5fba7f7721dde904352f598a.php" afterPath="$PROJECT_DIR$/app/cache/dev/twig/21/8d/7b5a7dfa61f5ede46390406e7d1c540be8ab5fba7f7721dde904352f598a.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/cache/dev/twig/9b/c1/7d397171c4dbf567071467bae54099765f3386039cf66972de461b4e41e7.php" afterPath="$PROJECT_DIR$/app/cache/dev/twig/9b/c1/7d397171c4dbf567071467bae54099765f3386039cf66972de461b4e41e7.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/cache/dev/twig/28/16/81c366640507d1af2fc364c0a88aae01ff0b2d01b01ecdf0d6c8c9ae48e1.php" afterPath="$PROJECT_DIR$/app/cache/dev/twig/28/16/81c366640507d1af2fc364c0a88aae01ff0b2d01b01ecdf0d6c8c9ae48e1.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/cache/dev/twig/12/bf/8a9a88bd8b57e0b6ece4ed6ce5daab4276c95dc04a3e5d21f33abd0d8ba0.php" afterPath="$PROJECT_DIR$/app/cache/dev/twig/12/bf/8a9a88bd8b57e0b6ece4ed6ce5daab4276c95dc04a3e5d21f33abd0d8ba0.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/cache/dev/twig/27/9f/8a9c4cc87a58fa2fab5338894728c9f1982ae3a4c3f3a6b409d24dd4e2ab.php" afterPath="$PROJECT_DIR$/app/cache/dev/twig/27/9f/8a9c4cc87a58fa2fab5338894728c9f1982ae3a4c3f3a6b409d24dd4e2ab.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/cache/dev/twig/2e/d8/8e39e66f177fa4a70a43fe917d2b5d89cda5731352e25335bbafccde127e.php" afterPath="$PROJECT_DIR$/app/cache/dev/twig/2e/d8/8e39e66f177fa4a70a43fe917d2b5d89cda5731352e25335bbafccde127e.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/cache/dev/twig/a5/80/9ce04c103e62881c8203d0b6696c158d2b18ab3017786cdd2797d1b73f65.php" afterPath="$PROJECT_DIR$/app/cache/dev/twig/a5/80/9ce04c103e62881c8203d0b6696c158d2b18ab3017786cdd2797d1b73f65.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/cache/dev/twig/96/bf/9d0c9aa645908559583f05458a0c42b69b3e2d0e560bbdbc4138fc2e94a7.php" afterPath="$PROJECT_DIR$/app/cache/dev/twig/96/bf/9d0c9aa645908559583f05458a0c42b69b3e2d0e560bbdbc4138fc2e94a7.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/giftlet/giftletBundle/Resources/config/doctrine/Gift.orm.yml" afterPath="$PROJECT_DIR$/src/giftlet/giftletBundle/Resources/config/doctrine/Gift.orm.yml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/giftlet/giftletBundle/Entity/Gift.php" afterPath="$PROJECT_DIR$/src/giftlet/giftletBundle/Entity/Gift.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/giftlet/giftletBundle/Form/GiftType.php" afterPath="$PROJECT_DIR$/src/giftlet/giftletBundle/Form/GiftType.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/giftlet/giftletBundle/DataFixtures/ORM/LoadUserData.php" afterPath="$PROJECT_DIR$/src/giftlet/giftletBundle/DataFixtures/ORM/LoadUserData.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/giftlet/giftletBundle/Resources/config/doctrine/User.orm.yml" afterPath="$PROJECT_DIR$/src/giftlet/giftletBundle/Resources/config/doctrine/User.orm.yml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/giftlet/giftletBundle/Entity/User.php" afterPath="$PROJECT_DIR$/src/giftlet/giftletBundle/Entity/User.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/giftlet/giftletBundle/Form/UserType.php" afterPath="$PROJECT_DIR$/src/giftlet/giftletBundle/Form/UserType.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/cache/dev/doctrine/orm/Proxies/__CG__giftletgiftletBundleEntityUser.php" afterPath="$PROJECT_DIR$/app/cache/dev/doctrine/orm/Proxies/__CG__giftletgiftletBundleEntityUser.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/cache/dev/twig/45/ee/a018bf60f939e21b5fbc8cf89969cd9cb51b14eed0ba39f46779812c5254.php" afterPath="$PROJECT_DIR$/app/cache/dev/twig/45/ee/a018bf60f939e21b5fbc8cf89969cd9cb51b14eed0ba39f46779812c5254.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/cache/dev/twig/fa/ab/a5e3fce212ed860de90c71a310678b5ad539f872cfc21ef0902d7170d9b4.php" afterPath="$PROJECT_DIR$/app/cache/dev/twig/fa/ab/a5e3fce212ed860de90c71a310678b5ad539f872cfc21ef0902d7170d9b4.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/cache/dev/twig/0b/ea/aad0e2bd441c83fdcd22e6fcef10d53eb4c7d634340c15fa696baf2b0a19.php" afterPath="$PROJECT_DIR$/app/cache/dev/twig/0b/ea/aad0e2bd441c83fdcd22e6fcef10d53eb4c7d634340c15fa696baf2b0a19.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/cache/dev/twig/63/4a/af58539540de1d31ac7e54f1cc74c001365e88b2fc28a5986aecbf267f31.php" afterPath="$PROJECT_DIR$/app/cache/dev/twig/63/4a/af58539540de1d31ac7e54f1cc74c001365e88b2fc28a5986aecbf267f31.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/cache/dev/appDevDebugProjectContainer.php" afterPath="$PROJECT_DIR$/app/cache/dev/appDevDebugProjectContainer.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/cache/dev/appDevDebugProjectContainer.xml" afterPath="$PROJECT_DIR$/app/cache/dev/appDevDebugProjectContainer.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/cache/dev/appDevDebugProjectContainerCompiler.log" afterPath="$PROJECT_DIR$/app/cache/dev/appDevDebugProjectContainerCompiler.log" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/cache/dev/appDevUrlGenerator.php.meta" afterPath="$PROJECT_DIR$/app/cache/dev/appDevUrlGenerator.php.meta" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/cache/dev/appDevUrlGenerator.php" afterPath="$PROJECT_DIR$/app/cache/dev/appDevUrlGenerator.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/cache/dev/appDevUrlMatcher.php.meta" afterPath="$PROJECT_DIR$/app/cache/dev/appDevUrlMatcher.php.meta" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/cache/dev/appDevUrlMatcher.php" afterPath="$PROJECT_DIR$/app/cache/dev/appDevUrlMatcher.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/cache/dev/twig/d4/ac/b7cac3b916afc1074bd31e3697e8c81c4e96c0c884145ba1fde227958576.php" afterPath="$PROJECT_DIR$/app/cache/dev/twig/d4/ac/b7cac3b916afc1074bd31e3697e8c81c4e96c0c884145ba1fde227958576.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/cache/dev/twig/4d/29/c1c36ae5c141e32a911af0f11c5f127a335b64aee778b49e7fde7e8f153d.php" afterPath="$PROJECT_DIR$/app/cache/dev/twig/4d/29/c1c36ae5c141e32a911af0f11c5f127a335b64aee778b49e7fde7e8f153d.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/cache/dev/twig/a9/b1/c2da4695ed019c3047bc20f92e1ea19ec457c379068e160643b4d165d57f.php" afterPath="$PROJECT_DIR$/app/cache/dev/twig/a9/b1/c2da4695ed019c3047bc20f92e1ea19ec457c379068e160643b4d165d57f.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/cache/dev/twig/fe/63/c4de1c0bce4568764d8b981e9555bb49fc4766297eafc62131dc14a885dd.php" afterPath="$PROJECT_DIR$/app/cache/dev/twig/fe/63/c4de1c0bce4568764d8b981e9555bb49fc4766297eafc62131dc14a885dd.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/cache/dev/twig/fa/19/c694b898e4800f5d96fcc0aa16cfdb6bc82375b3c6a538012e47b503047b.php" afterPath="$PROJECT_DIR$/app/cache/dev/twig/fa/19/c694b898e4800f5d96fcc0aa16cfdb6bc82375b3c6a538012e47b503047b.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/cache/dev/twig/67/8d/c713f8eaf8bb02a778c12a829ee84fcbb445aa5d7111f7758e747ee00c15.php" afterPath="$PROJECT_DIR$/app/cache/dev/twig/67/8d/c713f8eaf8bb02a778c12a829ee84fcbb445aa5d7111f7758e747ee00c15.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/cache/dev/twig/86/15/c9b5eb12c6da95f25a33989ebbcefa3109f2950283f8678ad6150e50119b.php" afterPath="$PROJECT_DIR$/app/cache/dev/twig/86/15/c9b5eb12c6da95f25a33989ebbcefa3109f2950283f8678ad6150e50119b.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/cheatsheet.txt" afterPath="$PROJECT_DIR$/cheatsheet.txt" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/cache/dev/classes.map" afterPath="$PROJECT_DIR$/app/cache/dev/classes.map" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/cache/dev/classes.php.meta" afterPath="$PROJECT_DIR$/app/cache/dev/classes.php.meta" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/cache/dev/classes.php" afterPath="$PROJECT_DIR$/app/cache/dev/classes.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/cache/dev/twig/4e/1a/d2b82156b22e45ca125e9988e7fb205aaf6c849fdf308835bacc58c8f22c.php" afterPath="$PROJECT_DIR$/app/cache/dev/twig/4e/1a/d2b82156b22e45ca125e9988e7fb205aaf6c849fdf308835bacc58c8f22c.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/cache/dev/twig/88/2e/d7938e4e856f6c57c025d885dee9c814d8a69b8877003dcfb03346eeeae8.php" afterPath="$PROJECT_DIR$/app/cache/dev/twig/88/2e/d7938e4e856f6c57c025d885dee9c814d8a69b8877003dcfb03346eeeae8.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/logs/dev.log" afterPath="$PROJECT_DIR$/app/logs/dev.log" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/cache/dev/twig/44/f6/e4db0d1bf51a92eb5e7a4d3c3a0aa2d539a70ac8b7aa8af86fd61e19efc2.php" afterPath="$PROJECT_DIR$/app/cache/dev/twig/44/f6/e4db0d1bf51a92eb5e7a4d3c3a0aa2d539a70ac8b7aa8af86fd61e19efc2.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/cache/dev/twig/b2/e4/eefaef0528fc0c77b2826fe783e894f16362ce3d0cd488dc15cfa27ac58f.php" afterPath="$PROJECT_DIR$/app/cache/dev/twig/b2/e4/eefaef0528fc0c77b2826fe783e894f16362ce3d0cd488dc15cfa27ac58f.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/cache/dev/twig/0b/10/f53b8de182eb931dbb3b92894da9129118303fb0f5d9bcec547dc2be43ec.php" afterPath="$PROJECT_DIR$/app/cache/dev/twig/0b/10/f53b8de182eb931dbb3b92894da9129118303fb0f5d9bcec547dc2be43ec.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/cache/dev/twig/b6/40/f8811fafdb78d1c757b1d6e2d28002feebe9a22821bd21b7a1d18bf7bea3.php" afterPath="$PROJECT_DIR$/app/cache/dev/twig/b6/40/f8811fafdb78d1c757b1d6e2d28002feebe9a22821bd21b7a1d18bf7bea3.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/cache/dev/twig/a1/a3/ffaa88004197d175ed939e6c15d34e8df899cc569ef781cef1c051f367f4.php" afterPath="$PROJECT_DIR$/app/cache/dev/twig/a1/a3/ffaa88004197d175ed939e6c15d34e8df899cc569ef781cef1c051f367f4.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/cache/dev/profiler/index.csv" afterPath="$PROJECT_DIR$/app/cache/dev/profiler/index.csv" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/giftlet/giftletBundle/Resources/views/User/index.html.twig" afterPath="$PROJECT_DIR$/src/giftlet/giftletBundle/Resources/views/User/index.html.twig" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/php_errors.log" afterPath="$PROJECT_DIR$/php_errors.log" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/logs/prod.log" afterPath="$PROJECT_DIR$/app/logs/prod.log" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/config/routing.yml" afterPath="$PROJECT_DIR$/app/config/routing.yml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/config/security.yml" afterPath="$PROJECT_DIR$/app/config/security.yml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/cache/prod/sessions/sess_m2v5sderhv12jp6ftbfm473iu7" afterPath="$PROJECT_DIR$/app/cache/prod/sessions/sess_m2v5sderhv12jp6ftbfm473iu7" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/giftlet/giftletBundle/Resources/views/Gift/show.html.twig" afterPath="$PROJECT_DIR$/src/giftlet/giftletBundle/Resources/views/Gift/show.html.twig" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/giftlet/giftletBundle/Resources/views/User/show.html.twig" afterPath="$PROJECT_DIR$/src/giftlet/giftletBundle/Resources/views/User/show.html.twig" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/cache/dev/templates.php" afterPath="$PROJECT_DIR$/app/cache/dev/templates.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+    </list>
     <ignored path="giftlet.iws" />
     <ignored path=".idea/workspace.xml" />
-    <file path="/Dummy.txt" changelist="823a19b9-028d-4aec-975d-cf65e379d518" time="1381572472297" ignored="false" />
-    <file path="/LoadUserData.php" changelist="823a19b9-028d-4aec-975d-cf65e379d518" time="1381572742812" ignored="false" />
+    <file path="/Dummy.txt" changelist="823a19b9-028d-4aec-975d-cf65e379d518" time="1382392291476" ignored="false" />
+    <file path="/LoadUserData.php" changelist="823a19b9-028d-4aec-975d-cf65e379d518" time="1381657961194" ignored="false" />
     <file path="/LoadGiftData.php" changelist="823a19b9-028d-4aec-975d-cf65e379d518" time="1381579080386" ignored="false" />
     <file path="/LoadContributionData.php" changelist="823a19b9-028d-4aec-975d-cf65e379d518" time="1381572728812" ignored="false" />
     <file path="/a.php" changelist="823a19b9-028d-4aec-975d-cf65e379d518" time="1381589985939" ignored="false" />
-    <file path="/Gift.orm.yml" changelist="823a19b9-028d-4aec-975d-cf65e379d518" time="1381606461866" ignored="false" />
+    <file path="/Gift.orm.yml" changelist="823a19b9-028d-4aec-975d-cf65e379d518" time="1381658019343" ignored="false" />
     <file path="/AppKernel.php" changelist="823a19b9-028d-4aec-975d-cf65e379d518" time="1381572641547" ignored="false" />
     <file path="/autoload.php" changelist="823a19b9-028d-4aec-975d-cf65e379d518" time="1381517389107" ignored="false" />
-    <file path="/User.orm.yml" changelist="823a19b9-028d-4aec-975d-cf65e379d518" time="1381581875915" ignored="false" />
-    <file path="/routing.yml" changelist="823a19b9-028d-4aec-975d-cf65e379d518" time="1381604849382" ignored="false" />
-    <file path="/User.php" changelist="823a19b9-028d-4aec-975d-cf65e379d518" time="1381589275815" ignored="false" />
-    <file path="/Gift.php" changelist="823a19b9-028d-4aec-975d-cf65e379d518" time="1381590000727" ignored="false" />
+    <file path="/User.orm.yml" changelist="823a19b9-028d-4aec-975d-cf65e379d518" time="1381657455446" ignored="false" />
+    <file path="/routing.yml" changelist="823a19b9-028d-4aec-975d-cf65e379d518" time="1381658993325" ignored="false" />
+    <file path="/User.php" changelist="823a19b9-028d-4aec-975d-cf65e379d518" time="1381654752931" ignored="false" />
+    <file path="/Gift.php" changelist="823a19b9-028d-4aec-975d-cf65e379d518" time="1381612559369" ignored="false" />
     <file path="/layout.html" changelist="823a19b9-028d-4aec-975d-cf65e379d518" time="1381597391988" ignored="false" />
     <file path="/layout.css" changelist="823a19b9-028d-4aec-975d-cf65e379d518" time="1381598112423" ignored="false" />
     <file path="/edit.html.twig" changelist="823a19b9-028d-4aec-975d-cf65e379d518" time="1381597611519" ignored="false" />
+    <file path="/show.html.twig" changelist="823a19b9-028d-4aec-975d-cf65e379d518" time="1381617014237" ignored="false" />
+    <file path="/security.yml" changelist="823a19b9-028d-4aec-975d-cf65e379d518" time="1381659633605" ignored="false" />
+    <file path="/a.dummy" changelist="823a19b9-028d-4aec-975d-cf65e379d518" time="1382046876872" ignored="false" />
+    <file path="/index.html.twig" changelist="823a19b9-028d-4aec-975d-cf65e379d518" time="1381615236742" ignored="false" />
+    <file path="/UserRepository.php" changelist="823a19b9-028d-4aec-975d-cf65e379d518" time="1381657341706" ignored="false" />
+    <file path="/SecurityController.php" changelist="823a19b9-028d-4aec-975d-cf65e379d518" time="1381659124642" ignored="false" />
+    <file path="/test.php" changelist="823a19b9-028d-4aec-975d-cf65e379d518" time="1382044709646" ignored="false" />
+    <file path="/fragment.php" changelist="823a19b9-028d-4aec-975d-cf65e379d518" time="1382047682320" ignored="false" />
+    <file path="$PROJECT_DIR$/app/cache/dev/twig/d8/ca/b0d4d6f94ca98bea48e94d7c51cf19b72a2227f1e590daa67bc52667fe18.php" changelist="823a19b9-028d-4aec-975d-cf65e379d518" time="1382047021274" ignored="false" />
+    <file path="$PROJECT_DIR$/app/cache/dev/twig/e4/62/d59440bf46c61764c37112f90387ceb341e9a41edb68e9a3a7de41039e8e.php" changelist="823a19b9-028d-4aec-975d-cf65e379d518" time="1382047021275" ignored="false" />
+    <file path="$PROJECT_DIR$/app/cache/dev/twig/7e/1c/4b0a337166f906cabf657b139297fd02fdc8541c2c047178d0113b3c7db2.php" changelist="823a19b9-028d-4aec-975d-cf65e379d518" time="1382047021277" ignored="false" />
+    <file path="$PROJECT_DIR$/app/cache/dev/twig/1a/0a/e18a2d549bfc72691c90539b37aecdddf0b48b7aaeba1681e6c4e1a8e937.php" changelist="823a19b9-028d-4aec-975d-cf65e379d518" time="1382047021279" ignored="false" />
+    <file path="$PROJECT_DIR$/app/cache/dev/twig/1f/54/a3760e489f8329e7d96badbd2d6cf3ac2f9bbff53b21da63d04149644494.php" changelist="823a19b9-028d-4aec-975d-cf65e379d518" time="1382047021281" ignored="false" />
+    <file path="$PROJECT_DIR$/app/cache/dev/twig/8c/3b/ae92c530f1f96839e5ac34d095ff87c64efbe62907acb42e02afa5c5418b.php" changelist="823a19b9-028d-4aec-975d-cf65e379d518" time="1382047021281" ignored="false" />
+    <file path="$PROJECT_DIR$/app/cache/dev/twig/93/8a/7e17f05bbc6afbb8dcd701234495fb6f6d3c458634f9bd9725d6afddb25a.php" changelist="823a19b9-028d-4aec-975d-cf65e379d518" time="1382047021282" ignored="false" />
+    <file path="$PROJECT_DIR$/app/cache/dev/twig/97/3d/651ff15ed511f2c4fcb5e047c2d270be41ac05d1297ce17ef1c615bbb875.php" changelist="823a19b9-028d-4aec-975d-cf65e379d518" time="1382047021283" ignored="false" />
+    <file path="$PROJECT_DIR$/app/cache/dev/twig/1b/ca/dadcae2babfaacd853bfa75acb81349b10f679c64847ca6fb0005ea394d0.php" changelist="823a19b9-028d-4aec-975d-cf65e379d518" time="1382047250016" ignored="false" />
+    <file path="$PROJECT_DIR$/app/cache/dev/twig/c8/24/e938036e93892b7c2d70471863de2475c27373ed0dd2f8bc6bc7223a3d53.php" changelist="823a19b9-028d-4aec-975d-cf65e379d518" time="1382047250016" ignored="false" />
+    <file path="$PROJECT_DIR$/app/cache/dev/twig/e2/4d/14d5111bcc47640be237163917fe6843b6fbb06084a333f50f151ebd47ea.php" changelist="823a19b9-028d-4aec-975d-cf65e379d518" time="1382047250017" ignored="false" />
+    <file path="$PROJECT_DIR$/app/cache/dev/twig/8c/72/239f36f442b4efbef780daa3fea3c2e0f70ba6efe4c6e69c4a7e7123b781.php" changelist="823a19b9-028d-4aec-975d-cf65e379d518" time="1382047250017" ignored="false" />
+    <file path="$PROJECT_DIR$/app/cache/dev/twig/5a/f5/8a44562c6b663c1210e143faebe4758b2457aa0b64b3b34dcc2d29136e13.php" changelist="823a19b9-028d-4aec-975d-cf65e379d518" time="1382047250018" ignored="false" />
+    <file path="$PROJECT_DIR$/app/cache/dev/twig/c7/aa/8168860060ab582e7b0a324d9a2291bd879d4f833ab91ef1ce6278ec6db2.php" changelist="823a19b9-028d-4aec-975d-cf65e379d518" time="1382047266469" ignored="false" />
+    <file path="$PROJECT_DIR$/app/cache/dev/twig/67/4f/c83cdd1580ee03b1c85042b9d56bc33d7ac99a807b7881a516a2acdfb4ec.php" changelist="823a19b9-028d-4aec-975d-cf65e379d518" time="1382047266469" ignored="false" />
+    <file path="$PROJECT_DIR$/app/cache/dev/twig/ae/b6/ef61c2aea23405f7afc8ffa62db490c0650f24d1e1a28d1365f4a7fabe78.php" changelist="823a19b9-028d-4aec-975d-cf65e379d518" time="1382047266470" ignored="false" />
+    <file path="$PROJECT_DIR$/app/cache/dev/twig/89/24/96fef94f6eec114d00311d64c4c310ff80a6568cd04e7da3e23e8a4a70bc.php" changelist="823a19b9-028d-4aec-975d-cf65e379d518" time="1382047266470" ignored="false" />
+    <file path="$PROJECT_DIR$/app/cache/dev/twig/e2/c1/98b594355c83b5b716dbd91b64b7022dd5cfab4dc9e9dc24f201a272a061.php" changelist="823a19b9-028d-4aec-975d-cf65e379d518" time="1382047266470" ignored="false" />
+    <file path="$PROJECT_DIR$/app/cache/dev/twig/2f/1b/5ecbc4bb3987d8ca9ae34446871a707222172c00c76cdff57f0ea4598008.php" changelist="823a19b9-028d-4aec-975d-cf65e379d518" time="1382047266470" ignored="false" />
+    <file path="$PROJECT_DIR$/app/cache/dev/twig/3d/36/621b90b2ca9a2d12bf4b620c0757bad3aad29374364ef23d93d6f709c332.php" changelist="823a19b9-028d-4aec-975d-cf65e379d518" time="1382047266471" ignored="false" />
     <option name="TRACKING_ENABLED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -38,93 +151,91 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file leaf-file-name="index.html.twig" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/giftlet/giftletBundle/Resources/views/Gift/index.html.twig">
+      <file leaf-file-name="Connection.php" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/vendor/doctrine/dbal/lib/Doctrine/DBAL/Connection.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="0" column="0" selection-start="0" selection-end="68" vertical-scroll-proportion="-0.0">
+            <state line="638" column="0" selection-start="18192" selection-end="18192" vertical-scroll-proportion="0.0">
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="Gift.orm.yml" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/giftlet/giftletBundle/Resources/config/doctrine/Gift.orm.yml">
+      <file leaf-file-name="security.yml" pinned="false" current="true" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/app/config/security.yml">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="33" column="39" selection-start="677" selection-end="677" vertical-scroll-proportion="0.0">
+            <state line="27" column="19" selection-start="716" selection-end="716" vertical-scroll-proportion="0.4722222">
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="new.html.twig" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/giftlet/giftletBundle/Resources/views/Gift/new.html.twig">
+      <file leaf-file-name="DaoAuthenticationProvider.php" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/vendor/symfony/symfony/src/Symfony/Component/Security/Core/Authentication/Provider/DaoAuthenticationProvider.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="18" column="0" selection-start="353" selection-end="353" vertical-scroll-proportion="-11.769231">
+            <state line="69" column="5" selection-start="2967" selection-end="2967" vertical-scroll-proportion="0.0">
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="GiftType.php" pinned="false" current="true" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/giftlet/giftletBundle/Form/GiftType.php">
+      <file leaf-file-name="EncoderFactory.php" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/vendor/symfony/symfony/src/Symfony/Component/Security/Core/Encoder/EncoderFactory.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0">
+            <state line="41" column="0" selection-start="1063" selection-end="1063" vertical-scroll-proportion="0.0">
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="show.html.twig" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/giftlet/giftletBundle/Resources/views/Gift/show.html.twig">
+      <file leaf-file-name="User.php" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/giftlet/giftletBundle/Entity/User.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="42" column="14" selection-start="1120" selection-end="1120" vertical-scroll-proportion="-27.461538">
+            <state line="233" column="0" selection-start="4149" selection-end="4149" vertical-scroll-proportion="0.0">
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="edit.html.twig" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/giftlet/giftletBundle/Resources/views/Gift/edit.html.twig">
+      <file leaf-file-name="MessageDigestPasswordEncoder.php" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/vendor/symfony/symfony/src/Symfony/Component/Security/Core/Encoder/MessageDigestPasswordEncoder.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="0" column="0" selection-start="0" selection-end="68" vertical-scroll-proportion="-0.0">
+            <state line="61" column="0" selection-start="1862" selection-end="1862" vertical-scroll-proportion="0.0">
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="routing.yml" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/app/config/routing.yml">
+      <file leaf-file-name="BasePasswordEncoder.php" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/vendor/symfony/symfony/src/Symfony/Component/Security/Core/Encoder/BasePasswordEncoder.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0">
+            <state line="92" column="7" selection-start="2663" selection-end="2663" vertical-scroll-proportion="0.0">
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="Gift.php" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/giftlet/giftletBundle/Entity/Gift.php">
+      <file leaf-file-name="UserAuthenticationProvider.php" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/vendor/symfony/symfony/src/Symfony/Component/Security/Core/Authentication/Provider/UserAuthenticationProvider.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="283" column="5" selection-start="4570" selection-end="4570" vertical-scroll-proportion="-34.5">
+            <state line="84" column="0" selection-start="2881" selection-end="2881" vertical-scroll-proportion="0.0">
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="routing.yml" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/giftlet/giftletBundle/Resources/config/routing.yml">
+      <file leaf-file-name="EntityUserProvider.php" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/vendor/symfony/symfony/src/Symfony/Bridge/Doctrine/Security/User/EntityUserProvider.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="9" column="0" selection-start="288" selection-end="288" vertical-scroll-proportion="0.0">
-              <folding>
-                <marker date="1381604851093" expanded="true" signature="38:87" placeholder="defaults:" />
-              </folding>
+            <state line="67" column="0" selection-start="2149" selection-end="2149" vertical-scroll-proportion="0.0">
+              <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="gift.yml" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/giftlet/giftletBundle/Resources/config/routing/gift.yml">
+      <file leaf-file-name="index.php" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://C:/xampp/phpMyAdmin/index.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0">
+            <state line="10" column="0" selection-start="158" selection-end="158" vertical-scroll-proportion="0.0">
               <folding />
             </state>
           </provider>
@@ -148,23 +259,28 @@
   <component name="IdeDocumentHistory">
     <option name="changedFiles">
       <list>
-        <option value="$PROJECT_DIR$/src/giftlet/giftletBundle/Resources/config/doctrine/Contribution.orm.yml" />
-        <option value="$PROJECT_DIR$/src/giftlet/giftletBundle/DataFixtures/ORM/LoadGiftData.php" />
-        <option value="$PROJECT_DIR$/src/giftlet/giftletBundle/DataFixtures/ORM/LoadContributionData.php" />
-        <option value="$PROJECT_DIR$/src/giftlet/giftletBundle/Entity/User.php" />
-        <option value="$PROJECT_DIR$/src/giftlet/giftletBundle/Resources/views/layout.css" />
-        <option value="$PROJECT_DIR$/src/giftlet/giftletBundle/Resources/views/layout.html" />
-        <option value="$PROJECT_DIR$/src/giftlet/giftletBundle/Resources/views/layout.html.twig" />
-        <option value="$PROJECT_DIR$/src/giftlet/giftletBundle/Resources/views/Gift/edit.html.twig" />
-        <option value="$PROJECT_DIR$/src/giftlet/giftletBundle/Resources/views/Gift/index.html.twig" />
-        <option value="$PROJECT_DIR$/src/giftlet/giftletBundle/Resources/views/Gift/new.html.twig" />
-        <option value="$PROJECT_DIR$/src/giftlet/giftletBundle/Resources/views/Gift/show.html.twig" />
-        <option value="$PROJECT_DIR$/src/giftlet/giftletBundle/Resources/public/css/layout.css" />
-        <option value="$PROJECT_DIR$/app/config/routing_dev.yml" />
-        <option value="$PROJECT_DIR$/src/giftlet/giftletBundle/Resources/config/routing.yml" />
-        <option value="$PROJECT_DIR$/src/giftlet/giftletBundle/Resources/config/doctrine/Gift.orm.yml" />
+        <option value="$PROJECT_DIR$/src/giftlet/giftletBundle/Form/GiftType.php" />
         <option value="$PROJECT_DIR$/src/giftlet/giftletBundle/Entity/Gift.php" />
+        <option value="$PROJECT_DIR$/src/giftlet/giftletBundle/Form/UserType.php" />
+        <option value="$PROJECT_DIR$/src/giftlet/giftletBundle/Resources/views/User/index.html.twig" />
+        <option value="$PROJECT_DIR$/src/giftlet/giftletBundle/Resources/views/User/show.html.twig" />
+        <option value="$PROJECT_DIR$/src/giftlet/giftletBundle/Resources/views/Gift/show.html.twig" />
+        <option value="$PROJECT_DIR$/src/giftlet/giftletBundle/Entity/UserRepository.php" />
+        <option value="$PROJECT_DIR$/src/giftlet/giftletBundle/Entity/User.php" />
+        <option value="$PROJECT_DIR$/src/giftlet/giftletBundle/DataFixtures/ORM/LoadUserData.php" />
+        <option value="$PROJECT_DIR$/src/giftlet/giftletBundle/Resources/config/doctrine/Gift.orm.yml" />
+        <option value="$PROJECT_DIR$/app/config/routing.yml" />
+        <option value="$PROJECT_DIR$/src/giftlet/giftletBundle/Controller/SecurityController.php" />
+        <option value="$PROJECT_DIR$/src/giftlet/giftletBundle/Resources/views/Security/login.html.twig" />
+        <option value="$PROJECT_DIR$/web/test.php" />
+        <option value="$PROJECT_DIR$/src/giftlet/giftletBundle/Resources/config/doctrine/User.orm.yml" />
+        <option value="$PROJECT_DIR$/app/config/security.yml" />
       </list>
+    </option>
+  </component>
+  <component name="PhpServers">
+    <option name="servers">
+      <server host="localhost" name="localhost" />
     </option>
   </component>
   <component name="PhpWorkspaceProjectConfiguration" backward_compatibility_performed="true" />
@@ -200,7 +316,6 @@
       <sortByType />
     </navigator>
     <panes>
-      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <PATH>
@@ -229,69 +344,7 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="vendor" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="giftlet" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="giftlet" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="vendor" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="doctrine" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="giftlet" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="giftlet" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="vendor" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="doctrine" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="doctrine-bundle" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="giftlet" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="giftlet" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="vendor" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="doctrine" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="data-fixtures" />
+              <option name="myItemId" value="web" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
@@ -354,134 +407,6 @@
             </PATH_ELEMENT>
             <PATH_ELEMENT>
               <option name="myItemId" value="Resources" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="views" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="giftlet" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="giftlet" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="src" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="giftlet" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="giftletBundle" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="Resources" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="views" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="Gift" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="giftlet" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="giftlet" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="src" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="giftlet" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="giftletBundle" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="Resources" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="giftlet" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="giftlet" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="src" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="giftlet" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="giftletBundle" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="Resources" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="public" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="giftlet" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="giftlet" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="src" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="giftlet" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="giftletBundle" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="Resources" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="public" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="css" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
@@ -545,67 +470,7 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="routing" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="giftlet" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="giftlet" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="src" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="giftlet" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="giftletBundle" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="Resources" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="config" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
               <option name="myItemId" value="doctrine" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="giftlet" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="giftlet" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="src" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="giftlet" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="giftletBundle" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="Form" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
@@ -645,36 +510,6 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="src" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="giftlet" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="giftletBundle" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="DataFixtures" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="ORM" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="giftlet" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="giftlet" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
               <option name="myItemId" value="app" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
@@ -699,12 +534,15 @@
           </PATH>
         </subPane>
       </pane>
+      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
     <property name="options.splitter.main.proportions" value="0.3" />
     <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="recentsLimit" value="5" />
     <property name="options.lastSelected" value="preferences.sourceCode.PHP" />
+    <property name="restartRequiresConfirmation" value="true" />
     <property name="FullScreen" value="false" />
     <property name="options.splitter.details.proportions" value="0.2" />
     <property name="options.searchVisible" value="true" />
@@ -718,19 +556,34 @@
       <recent name="C:\webdev\giftlet\src\giftlet\giftletBundle\Resources\views" />
     </key>
   </component>
-  <component name="RunManager">
+  <component name="RunManager" selected="PHP Web Application.app_dev">
     <configuration default="true" type="PHPUnitRunConfigurationType" factoryName="PHPUnit">
       <TestRunner />
       <method />
     </configuration>
+    <configuration default="true" type="PhpWebAppRunConfigurationType" factoryName="PHP Web Application">
+      <method />
+    </configuration>
+    <configuration default="true" type="PhpLocalRunConfigurationType" factoryName="PHP Console">
+      <method />
+    </configuration>
     <configuration default="true" type="JavascriptDebugSession" factoryName="Local" singleton="true">
       <JSDebuggerConfigurationSettings>
-        <option name="engineId" />
+        <option name="engineId" value="embedded" />
         <option name="fileUrl" />
       </JSDebuggerConfigurationSettings>
       <method />
     </configuration>
-    <list size="0" />
+    <configuration default="false" name="app_dev" type="PhpWebAppRunConfigurationType" factoryName="PHP Web Application" browser="EXPLORER" server_name="localhost" start_url="/giftlet/web/app_dev.php">
+      <RunnerSettings RunnerId="PhpRunner" />
+      <RunnerSettings RunnerId="PhpWebAppDebugRunner" />
+      <ConfigurationWrapper RunnerId="PhpRunner" />
+      <ConfigurationWrapper RunnerId="PhpWebAppDebugRunner" />
+      <method />
+    </configuration>
+    <list size="1">
+      <item index="0" class="java.lang.String" itemvalue="PHP Web Application.app_dev" />
+    </list>
   </component>
   <component name="ShelveChangesManager" show_recycled="false" />
   <component name="SvnConfiguration" maxAnnotateRevisions="500" myUseAcceleration="nothing" myAutoUpdateAfterCommit="false" cleanupOnStartRun="false" SSL_PROTOCOLS="all">
@@ -760,16 +613,15 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1936" height="1176" extended-state="7" />
-    <editor active="true" />
+    <editor active="false" />
     <layout>
       <window_info id="Changes" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
-      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32940018" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Framework" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.24759872" sideWeight="0.6705998" order="0" side_tool="false" content_ui="combo" />
-      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.25133404" sideWeight="0.6007866" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.39921337" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32940018" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
@@ -777,6 +629,7 @@
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32875368" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="SLIDING" type="SLIDING" visible="false" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
       <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
@@ -841,122 +694,113 @@
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
-      <option name="time" value="2" />
+      <breakpoints>
+        <line-breakpoint enabled="true" type="php">
+          <url>file://$PROJECT_DIR$/vendor/symfony/symfony/src/Symfony/Component/Security/Core/Authentication/Provider/UserAuthenticationProvider.php</url>
+          <line>84</line>
+          <option name="timeStamp" value="16" />
+        </line-breakpoint>
+      </breakpoints>
+      <option name="time" value="18" />
     </breakpoint-manager>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/app/config/parameters.yml">
+    <entry file="file://C:/xampp/phpMyAdmin/js/get_image.js.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="7" column="28" selection-start="249" selection-end="249" vertical-scroll-proportion="0.0">
+        <state line="8" column="0" selection-start="189" selection-end="189" vertical-scroll-proportion="-5.230769" />
+      </provider>
+    </entry>
+    <entry file="file://C:/xampp/phpMyAdmin/js/messages.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="8" column="0" selection-start="142" selection-end="142" vertical-scroll-proportion="-5.230769" />
+      </provider>
+    </entry>
+    <entry file="file://C:/xampp/phpMyAdmin/version_check.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="9" column="0" selection-start="180" selection-end="180" vertical-scroll-proportion="-5.8846154" />
+      </provider>
+    </entry>
+    <entry file="file://C:/xampp/phpMyAdmin/db_structure.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="10" column="0" selection-start="94" selection-end="94" vertical-scroll-proportion="-6.5384617" />
+      </provider>
+    </entry>
+    <entry file="file://C:/xampp/phpMyAdmin/sql.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="13" column="0" selection-start="288" selection-end="288" vertical-scroll-proportion="-7.5" />
+      </provider>
+    </entry>
+    <entry file="file://C:/xampp/phpMyAdmin/js/get_scripts.js.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="14" column="0" selection-start="373" selection-end="373" vertical-scroll-proportion="-9.153846" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/vendor/doctrine/dbal/lib/Doctrine/DBAL/Connection.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="638" column="0" selection-start="18192" selection-end="18192" vertical-scroll-proportion="0.0">
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/giftlet/giftletBundle/DataFixtures/ORM/LoadGiftData.php">
+    <entry file="file://$PROJECT_DIR$/vendor/symfony/symfony/src/Symfony/Bridge/Doctrine/Security/User/EntityUserProvider.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="36" column="1" selection-start="1092" selection-end="1092" vertical-scroll-proportion="0.30769232">
-          <folding>
-            <element signature="e#59#105#0" expanded="false" />
-          </folding>
+        <state line="67" column="0" selection-start="2149" selection-end="2149" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/vendor/symfony/symfony/src/Symfony/Component/Security/Core/Authentication/Provider/UserAuthenticationProvider.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="84" column="0" selection-start="2881" selection-end="2881" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/vendor/symfony/symfony/src/Symfony/Component/Security/Core/Authentication/Provider/DaoAuthenticationProvider.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="69" column="5" selection-start="2967" selection-end="2967" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/vendor/symfony/symfony/src/Symfony/Component/Security/Core/Encoder/EncoderFactory.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="41" column="0" selection-start="1063" selection-end="1063" vertical-scroll-proportion="0.0">
+          <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/giftlet/giftletBundle/Entity/User.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="178" column="0" selection-start="3188" selection-end="3269" vertical-scroll-proportion="0.30769232">
+        <state line="233" column="0" selection-start="4149" selection-end="4149" vertical-scroll-proportion="0.0">
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/giftlet/giftletBundle/Resources/views/layout.html.twig">
+    <entry file="file://$PROJECT_DIR$/vendor/symfony/symfony/src/Symfony/Component/Security/Core/Encoder/MessageDigestPasswordEncoder.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="32" column="7" selection-start="720" selection-end="720" vertical-scroll-proportion="-20.923077">
+        <state line="61" column="0" selection-start="1862" selection-end="1862" vertical-scroll-proportion="0.0">
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/giftlet/giftletBundle/Resources/public/css/layout.css">
+    <entry file="file://$PROJECT_DIR$/vendor/symfony/symfony/src/Symfony/Component/Security/Core/Encoder/BasePasswordEncoder.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="35" column="0" selection-start="484" selection-end="484" vertical-scroll-proportion="0.0">
+        <state line="92" column="7" selection-start="2663" selection-end="2663" vertical-scroll-proportion="0.0">
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/app/config/routing_dev.yml">
+    <entry file="file://$PROJECT_DIR$/app/config/security.yml">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="14" column="0" selection-start="370" selection-end="370" vertical-scroll-proportion="0.0">
+        <state line="27" column="19" selection-start="716" selection-end="716" vertical-scroll-proportion="0.4722222">
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/app/config/routing.yml">
+    <entry file="file://C:/xampp/phpMyAdmin/index.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/giftlet/giftletBundle/Resources/config/routing.yml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="9" column="0" selection-start="288" selection-end="288" vertical-scroll-proportion="0.0">
-          <folding>
-            <marker date="1381604851093" expanded="true" signature="38:87" placeholder="defaults:" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/giftlet/giftletBundle/Resources/config/routing/gift.yml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/giftlet/giftletBundle/Resources/config/doctrine/Gift.orm.yml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="33" column="39" selection-start="677" selection-end="677" vertical-scroll-proportion="0.0">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/giftlet/giftletBundle/Entity/Gift.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="283" column="5" selection-start="4570" selection-end="4570" vertical-scroll-proportion="-34.5">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/giftlet/giftletBundle/Resources/views/Gift/index.html.twig">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="0" column="0" selection-start="0" selection-end="68" vertical-scroll-proportion="-0.0">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/giftlet/giftletBundle/Resources/views/Gift/show.html.twig">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="42" column="14" selection-start="1120" selection-end="1120" vertical-scroll-proportion="-27.461538">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/giftlet/giftletBundle/Resources/views/Gift/edit.html.twig">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="0" column="0" selection-start="0" selection-end="68" vertical-scroll-proportion="-0.0">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/giftlet/giftletBundle/Resources/views/Gift/new.html.twig">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="18" column="0" selection-start="353" selection-end="353" vertical-scroll-proportion="-11.769231">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/giftlet/giftletBundle/Form/GiftType.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0">
+        <state line="10" column="0" selection-start="158" selection-end="158" vertical-scroll-proportion="0.0">
           <folding />
         </state>
       </provider>

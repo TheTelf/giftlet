@@ -7,7 +7,7 @@
         <thead>
             <tr>
                 <th>Id</th>
-                <th>Handle</th>
+                <th>Username</th>
                 <th>Createddate</th>
                 <th>Actions</th>
             </tr>
@@ -16,7 +16,7 @@
         {% for entity in entities %}
             <tr>
                 <td><a href="{{ path('giftlet_user_show', { 'id': entity.id }) }}">{{ entity.id }}</a></td>
-                <td>{{ entity.handle }}</td>
+                <td>{{ entity.username }}</td>
                 <td>{% if entity.createddate %}{{ entity.createddate|date('Y-m-d H:i:s') }}{% endif %}</td>
                 <td>
                 <ul>

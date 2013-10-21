@@ -287,4 +287,17 @@ class Gift
     {
         return $this->getTitle();
     }
+
+
+    public function getContributionTotal()
+    {
+        $total = 0;
+
+        foreach ($this->getContributions() as $contribution)
+        {
+            $total += $contribution->getAmount();
+        }
+
+        return $total;
+    }
 }

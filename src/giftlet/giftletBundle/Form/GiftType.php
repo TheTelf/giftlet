@@ -16,9 +16,9 @@ class GiftType extends AbstractType
     {
         $builder
             ->add('title')
+            ->add('description')
+            ->add('link')
             ->add('cost')
-            ->add('createddate')
-            ->add('createdby')
         ;
     }
     

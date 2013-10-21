@@ -15,7 +15,7 @@ class UserType extends AbstractType
     public function buildForm(FormBuilderInterface $builder, array $options)
     {
         $builder
-            ->add('handle')
+            ->add('username')
             ->add('createddate')
         ;
     }
